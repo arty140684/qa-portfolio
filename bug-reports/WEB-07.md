@@ -1,4 +1,4 @@
-# WEB-02
+# WEB-07
 
 ## Title
 User is redirected to homepage after changing language on Help page
