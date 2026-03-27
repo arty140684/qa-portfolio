@@ -1,0 +1,9 @@
+# Website Testing Checklist
+
+- Links work correctly
+- Buttons clickable
+- Forms validation
+- Responsive design
+- Cross-browser testing
+- Localization check
+- Error handling
