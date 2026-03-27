@@ -79,7 +79,7 @@ Issue where selected license (SCA) is not preserved after navigation or page rel
 - Potential compliance risks  
 
 👉 See details:  
-`bug-reports/web/01-license-state-bug.md`
+[View bug](./bug-reports/web/01-license-state-bug.md)
 
 ---
 
