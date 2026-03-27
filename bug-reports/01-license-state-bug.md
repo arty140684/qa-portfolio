@@ -1,4 +1,4 @@
-# WEB-06
+# 01-license-state-bug.md
 
 ## Title
 Inconsistent behavior of license selection after navigation and page reload
