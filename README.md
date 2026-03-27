@@ -2,28 +2,34 @@
 
 ## About Me
 QA Engineer with hands-on experience in manual testing of web and mobile applications.  
-Strong analytical mindset with 17+ years of experience in business operations and team management.  
-Skilled in bug reporting, exploratory testing, and identifying edge cases.
+Strong analytical mindset with 17+ years in business operations and team management.  
+Able to identify critical bugs and describe them clearly.
 
 ## Skills
 - Manual Testing (Web & Mobile)
-- Bug Reporting
+- Bug Reporting (Jira style)
 - Test Case Design
 - UI Testing
 - Regression Testing
 - Exploratory Testing
-- Basic Automation (Selenium)
 - API Testing (Postman basic)
+- Automation Testing (Selenium basic)
 
 ## Tools
 - Jira
 - TestRail
-- Chrome DevTools
 - Postman
+- Chrome DevTools
 - Git
+
+## Portfolio Structure
+- bug-reports → real bugs найденные на сайтах
+- test-cases → тест кейсы
+- checklists → чек-листы
+- api-testing → API тесты
 
 ## Projects
 ### Capital.com Testing
-- Tested financial web platform
-- Found and reported bugs (UI, links, localization, redirects)
-- Created structured bug reports
+- Tested financial platform
+- Found UI, functional, and localization bugs
+- Wrote structured bug reports
