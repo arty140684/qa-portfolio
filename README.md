@@ -33,3 +33,12 @@ Able to identify critical bugs and describe them clearly.
 - Tested financial platform
 - Found UI, functional, and localization bugs
 - Wrote structured bug reports
+- 
+## Key Findings
+During testing of Capital.com I identified:
+
+- Incorrect license routing (SCA → FCA)
+- Broken social media links
+- Non-clickable Privacy Policy (AR)
+- Help section accessibility issues
+These issues may impact user trust and regulatory compliance.
