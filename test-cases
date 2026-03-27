@@ -1,0 +1,18 @@
+# Test Case: Login
+
+## Steps
+1. Open login page
+2. Enter valid credentials
+3. Click login
+
+## Expected
+User is logged in
+# Test Case: Registration
+
+## Steps
+1. Open sign up
+2. Enter valid data
+3. Submit
+
+## Expected
+Account is created
