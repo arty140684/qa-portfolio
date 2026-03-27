@@ -1,0 +1,53 @@
+# WEB-01
+
+## Title
+Selected license is not preserved in URL
+
+## Steps to Reproduce
+1. Open capital.com
+2. Select SCA license
+3. Open Italy 40 page
+4. Click Ferrari
+
+## Expected
+SCA URL (en-ae)
+
+## Actual
+FCA URL (en-gb)
+
+## Severity
+Major
+# WEB-02
+
+## Title
+Help page redirects to homepage after language change
+
+## Steps
+1. Open Help page
+2. Change language
+
+## Expected
+Same page in new language
+
+## Actual
+Redirect to homepage
+
+## Severity
+Minor
+# WEB-03
+
+## Title
+Instagram link redirects to login page
+
+## Steps
+1. Open Help page
+2. Click Instagram
+
+## Expected
+Official page
+
+## Actual
+Login page
+
+## Severity
+Minor
