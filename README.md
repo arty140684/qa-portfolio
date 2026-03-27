@@ -1,49 +1,110 @@
 # Artem Lomasko – QA Engineer
 
-## About Me
-QA Engineer with hands-on experience in manual testing of web and mobile applications.  
-Strong analytical mindset with 17+ years in business operations and team management.  
-Able to identify critical bugs and describe them clearly.
+## 🚀 About Me
+QA Engineer with hands-on experience in testing web and mobile applications.  
+I focus on finding real issues that impact users and business, not just UI defects.
 
-## Skills
-- Manual Testing (Web & Mobile)
-- Bug Reporting (Jira style)
-- Test Case Design
-- UI Testing
-- Regression Testing
-- Exploratory Testing
-- API Testing (Postman basic)
-- Automation Testing (Selenium basic)
+Previously worked 17+ years in business operations and team management, which helps me:
+- understand user behavior  
+- think from a business perspective  
+- identify high-impact issues  
 
-## Tools
-- Jira
-- TestRail
-- Postman
-- Chrome DevTools
-- Git
+---
 
-## Portfolio Structure
-- bug-reports → real bugs найденные на сайтах
-- test-cases → тест кейсы
-- checklists → чек-листы
-- api-testing → API тесты
+## 🔍 What I Do
+- Perform manual testing of web platforms  
+- Identify functional, UI, and localization bugs  
+- Write clear and structured bug reports (Jira style)  
+- Conduct exploratory testing  
+- Analyze user flows and edge cases  
 
-## Projects
-### Capital.com Testing
-- Tested financial platform
-- Found UI, functional, and localization bugs
-- Wrote structured bug reports
-- 
-## Key Findings
-During testing of Capital.com I identified:
+---
 
-- Incorrect license routing (SCA → FCA)
-- Broken social media links
-- Non-clickable Privacy Policy (AR)
-- Help section accessibility issues
-These issues may impact user trust and regulatory compliance.
-## 🔥 Top Bugs
+## 🧪 Tools & Technologies
+- Jira / TestRail  
+- Chrome DevTools  
+- Postman (basic)  
+- Selenium (basic)  
+- Git / GitHub  
 
-- WEB-06 – License state inconsistency (Major, High priority)
-- WEB-01 – License mismatch (Major)
-- WEB-05 – Privacy Policy not clickable (Major)
+---
+
+## 🔥 Key Findings (Capital.com Testing)
+
+During testing of a financial platform, I identified several critical issues:
+
+- ❗ License mismatch (SCA → FCA)  
+- ❗ Inconsistent license behavior after navigation  
+- ❗ Broken social media links  
+- ❗ Non-clickable Privacy Policy (Arabic version)  
+- ❗ Help section accessibility issues  
+
+👉 These issues may affect:
+- regulatory compliance  
+- user trust  
+- platform usability  
+
+---
+
+## 🧠 Testing Approach
+
+I focus not only on finding bugs, but also on understanding:
+
+- how the system behaves under different conditions  
+- where user flow can break  
+- what risks exist for business and users  
+
+---
+
+## 📁 Portfolio Structure
+qa-portfolio/
+├── bug-reports/
+│ ├── web/
+│ ├── mobile/
+├── test-cases/
+├── checklists/
+├── api-testing/
+
+---
+
+## 🐞 Featured Bug
+
+### License State Inconsistency (High Priority)
+
+Issue where selected license (SCA) is not preserved after navigation or page reload.
+
+**Impact:**
+- Users may access incorrect regulatory region  
+- Incorrect legal information displayed  
+- Potential compliance risks  
+
+👉 See details:  
+`bug-reports/web/01-license-state-bug.md`
+
+---
+
+## 📊 Skills
+
+- Manual Testing (Web & Mobile)  
+- Bug Reporting (Jira style)  
+- Test Case Design  
+- UI Testing  
+- Regression Testing  
+- Exploratory Testing  
+- API Testing (basic)  
+
+---
+
+## 🌍 English Level
+B1 (actively improving)
+
+---
+
+## 📬 Contact
+📧 Artemlomasko@gmail.com  
+📍 Danang, Vietnam  
+
+---
+
+## 💡 Goal
+To join a product team as a QA Engineer and contribute by ensuring product quality, improving user experience, and preventing critical issues before release.
