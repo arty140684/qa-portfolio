@@ -42,3 +42,8 @@ During testing of Capital.com I identified:
 - Non-clickable Privacy Policy (AR)
 - Help section accessibility issues
 These issues may impact user trust and regulatory compliance.
+## 🔥 Top Bugs
+
+- WEB-06 – License state inconsistency (Major, High priority)
+- WEB-01 – License mismatch (Major)
+- WEB-05 – Privacy Policy not clickable (Major)
